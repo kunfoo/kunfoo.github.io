@@ -9,14 +9,29 @@
 - Audioslave - Audioslave
 - Nirvana - Nevermind
 - Pixies - Doolittle, Surfer Rosa
+- Rage Against the Machine - Rage Against the Machine
 - Soundgarden - Badmotorfinger, Superunknown
-
-## Punk
-- Die Ärzte - 13, Planet Punk
-- Dritte Wahl - Roggen Roll
-- Swiss und Die Andern - Grosse Freiheit, Randalieren für die Liebe
 
 ## Metal
 - As I Lay Dying - An Ocean Between Us, The Powerless Rise
 - Metallica - Ride the Lightning
 - System Of A Down - Toxicity
+
+## Rock
+- Black Sabbath - Master of Reality, Paranoid
+- Camel - Mirage
+- Deep Purple - Shades of Deep Purple
+- Led Zeppelin - I, IV
+- Oasis - Definitely Maybe, Morning Glory
+
+## Punk
+- Die Ärzte - 13, Planet Punk
+- Dritte Wahl - Roggen Roll
+- Swiss und Die Andern - Grosse Freiheit, Randalieren für die Liebe
+- The Clash - London Calling
+- The Offspring - Ignition, Smash
+
+## Hat auch ein Genre
+- Air - Moon Safari
+- Jefferson Airplane - Surrealistic Pillow
+- Moby - Play
