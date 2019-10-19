@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
-title: this is kunfoosing
+theme:  jekyll-theme-minimal
+title:  kunfoose Gedankenfetzen
+logo:   static/img/logo.png
+show_downloads: false
