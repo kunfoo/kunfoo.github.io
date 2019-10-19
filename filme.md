@@ -26,11 +26,11 @@
 - Der Exorzist
 - Get Out
 - Hügel der blutigen Augen (2006, The Hills Have Eyes)
-    - hier ist ausnahmsweise der deutsche Titel mal dermaßen viel besser als der
-      englische
+  - hier ist ausnahmsweise der deutsche Titel mal dermaßen viel besser als der
+    englische
 - Rosemary's Baby
 - Saw
-    - aber auch wirklich nur der erste Teil
+  - aber auch wirklich nur der erste Teil
 - The Shining
 - Wrong Turn
 
@@ -40,11 +40,11 @@
 
 ## Serien
 - Babylon Berlin
-    - bisher nur die erste Staffel gesehen
+  - bisher nur die erste Staffel gesehen
 - Band of Brothers
 - Breaking Bad
 - Fargo
 - Game of Thrones
 - Star Trek: The Next Generation
 - True Detective
-    - nur die erste Staffel, aber die ist großartig
+  - nur die erste Staffel, aber die ist großartig

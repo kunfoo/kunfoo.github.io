@@ -6,8 +6,10 @@
 - Sex Pistols - Never Mind the Bollocks
 
 ## Alternative
+- Audioslave - Audioslave
 - Nirvana - Nevermind
 - Pixies - Doolittle, Surfer Rosa
+- Soundgarden - Badmotorfinger, Superunknown
 
 ## Punk
 - Die Ärzte - 13, Planet Punk
@@ -15,5 +17,6 @@
 - Swiss und Die Andern - Grosse Freiheit, Randalieren für die Liebe
 
 ## Metal
-As I Lay Dying - An Ocean Between Us, The Powerless Rise
-Metallica - Ride the Lightning
+- As I Lay Dying - An Ocean Between Us, The Powerless Rise
+- Metallica - Ride the Lightning
+- System Of A Down - Toxicity
