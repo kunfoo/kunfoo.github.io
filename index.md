@@ -11,8 +11,22 @@ dienen diese Listen mir selbst. Falls sie auch jemand anderem dienlich sein
 können, umso besser!
 
 ## IT
-- [git](git)
-- [ssh](ssh)
+- [Basiswerkzeuge](basiswerkzeuge)
+  - [bash](bash)
+  - [ELF](elf)
+  - [git](git)
+  - [Netzwerk](netzwerk_werkzeuge)
+  - [ssh](ssh)
+  - [System](system_werkzeuge)
+  - [systemd](systemd)
+  - [vim](vim)
+- [Pentesting](pentesting)
+  - [frida](frida)
+  - [metasploit](metasploit)
+  - [nmap](nmap)
+  - [Android](android)
+  - [iOS](ios)
+  - [Web](web)
 
 ## Kultur
 - [Bücher](buecher)
