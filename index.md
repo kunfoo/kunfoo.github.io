@@ -16,5 +16,7 @@ können, umso besser!
 
 ## Kultur
 - [Bücher](buecher)
+    - [Romane](romane)
+    - [Sachbücher](sachbuecher)
 - [Filme](filme)
 - [Musik](musik)
