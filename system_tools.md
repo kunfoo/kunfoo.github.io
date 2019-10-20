@@ -30,7 +30,7 @@ List alternatives for `editor`:
 update-alternatives --list editor
 ```
 
-Set /usr/bin/vim.basic as alternative for `editor`:
+Set `/usr/bin/vim.basic` as alternative for `editor`:
 ```
 update-alternatives --set editor /usr/bin/vim.basic
 ```

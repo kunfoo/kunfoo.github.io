@@ -3,4 +3,4 @@
 - [Slate Star Codex](https://slatestarcodex.com/)
 
 ## Politik
-- [libcom.org](https://libcom.org/)
+- [libcom.org](https://libcom.org/notes/about)
