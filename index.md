@@ -11,16 +11,17 @@ dienen diese Listen mir selbst. Falls sie auch jemand anderem dienlich sein
 können, umso besser!
 
 ## IT
-- [Basiswerkzeuge](basiswerkzeuge)
+- Basic tools
   - [bash](bash)
   - [ELF](elf)
   - [git](git)
-  - [Netzwerk](netzwerk_werkzeuge)
+  - [Networking](network_tools)
   - [ssh](ssh)
-  - [System](system_werkzeuge)
+  - [System](system_tools)
   - [systemd](systemd)
   - [vim](vim)
-- [Pentesting](pentesting)
+  - [Other](other_tools)
+- Pentesting
   - [frida](frida)
   - [metasploit](metasploit)
   - [nmap](nmap)
@@ -30,10 +31,9 @@ können, umso besser!
 - [Links](it_links)
 
 ## Kultur
-- [Bücher](buecher)
+- Bücher
   - [Romane](romane)
   - [Sachbücher](sachbuecher)
 - [Filme](filme)
 - [Musik](musik)
-
-## Links
+- [Links](culture_links)

@@ -1,4 +1,4 @@
-# Netzwerk
+# Networking
 - ip
 - iptables
 - ncat
