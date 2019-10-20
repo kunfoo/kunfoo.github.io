@@ -7,6 +7,8 @@
 ## Deutsche Autoren
 - Andreas Eschbach - NSA
 - Wolfgang Herrndorf - Tschick
+- Hermann Hesse - Demian
+- Markus Kavka - Rottenegg
 - Marc-Uwe Kling - Die Känguru-Trilogie
 - Sven Regener - Herr-Lehmann-Reihe
 - Rocko Schamoni - Dorfpunks
@@ -15,6 +17,7 @@
 - Juli Zeh - Spieltrieb
 
 ## Internationale Autoren
+- Michail Bulgakow - Der Meister und Margarita
 - Bret Easton Ellis - American Psycho
 - Alex Garland - The Beach
 - J.D. Salinger - Der Fänger im Roggen
@@ -25,6 +28,7 @@
 - J.W. Goethe - Die Leiden des jungen Werther
 - Franz Kafka - Die Verwandlung
 - Herman Melville - Moby Dick
+- E.M. Remarque - Im Westen nichts Neues
 - Leo Tolstoi - Krieg und Frieden
 
 ## Gar keine Romane (aber auch keine Sachbücher)

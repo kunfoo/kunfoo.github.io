@@ -9,17 +9,13 @@
 - Pulp Fiction
 - The Big Lebowski
 - The Dark Knight
+- Terminator 2
 - Tiger and Dragon (Crouching Tiger, Hidden Dragon)
 - Und täglich grüßt das Murmeltier (Groundhog Day)
 
 ## Deutsche Filme
 - Das Boot
 - Lammbock
-
-## Hat auch ein Genre
-- Der Gott des Gemetzels (Carnage)
-- Forrest Gump
-- Once Upon a Time in Hollywood
 
 ## Horror
 - A Quiet Place
@@ -37,6 +33,17 @@
 ## Science Fiction
 - 2001 - Odyssee im Weltraum
 - Interstellar
+- Sunshine
+
+## Hat auch ein Genre
+- Amadeus
+- Der Gott des Gemetzels (Carnage)
+- Falling Down
+- Forrest Gump
+- Full Metal Jacket
+- I, Tonya
+- Once Upon a Time in Hollywood
+- Predator
 
 ## Serien
 - Babylon Berlin
