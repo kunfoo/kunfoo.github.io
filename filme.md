@@ -18,16 +18,21 @@
 - Lammbock
 
 ## Horror
-- A Quiet Place
+- Der Babadook
+- The Conjuring
 - Der Exorzist
 - Get Out
+- Halloween - Die Nacht des Grauens
 - Hügel der blutigen Augen (2006, The Hills Have Eyes)
   - hier ist ausnahmsweise der deutsche Titel mal dermaßen viel besser als der
     englische
+- Let Me In
+- A Quiet Place
 - Rosemary's Baby
 - Saw
   - aber auch wirklich nur der erste Teil
-- The Shining
+- Shining
+- Tanz der Teufel I-III (Evil Dead)
 - Wrong Turn
 
 ## Science Fiction
@@ -38,12 +43,14 @@
 ## Hat auch ein Genre
 - Amadeus
 - Der Gott des Gemetzels (Carnage)
+- Ed Wood
 - Falling Down
 - Forrest Gump
 - Full Metal Jacket
 - I, Tonya
 - Once Upon a Time in Hollywood
 - Predator
+- Sleepy Hollow
 
 ## Serien
 - Babylon Berlin
