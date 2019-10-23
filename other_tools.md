@@ -1,2 +1,13 @@
 # Other tools
-- screen
+## find
+- find and list world-writable files and directories in cwd and subdirectories
+```
+find . -perm -a+w -type d,f -ls
+```
+
+- find suid/sgid executables in /usr and subdirectories
+```
+find /usr -type f \( -perm -04000 -o -perm -02000 \)
+```
+
+## screen
