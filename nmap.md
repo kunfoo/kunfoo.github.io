@@ -4,7 +4,7 @@
 nmap -sS -sV -p0-65535 -iL list.txt
 ```
 
-- run all ms-sql scripts (scripts are located in `/usr/share/nmap/scripts/)
+- run all ms-sql scripts (scripts are located in `/usr/share/nmap/scripts/`)
 ```
 nmap --script \*ms-sql\* -p 1433 some.host.tld
 ```

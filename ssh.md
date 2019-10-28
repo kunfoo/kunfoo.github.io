@@ -4,3 +4,8 @@
 ```
 ssh -NfL 8080:localhost:1337 user@host.tld
 ```
+
+- run tcpdump on remote host and pipe traffic to local wireshark instance
+```
+ssh user@host sudo tcpdump -i wlan0 -w - | wireshark -k -i -
+```
