@@ -7,6 +7,11 @@
 a = ObjC.chooseSync(ObjC.classes.NSString)
 ```
 
+- call a static method
+```
+ObjC.classes.Class['- method']()
+```
+
 ## Useful JavaScript
 - test if object is an array-type
 ```
