@@ -10,6 +10,7 @@
 - Hermann Hesse - Demian
 - Markus Kavka - Rottenegg
 - Marc-Uwe Kling - Die Känguru-Trilogie
+- Sten Nadolny - Die Entdeckung der Langsamkeit
 - Sven Regener - Herr-Lehmann-Reihe
 - Rocko Schamoni - Dorfpunks
 - Hein Strunk - Fleisch ist mein Gemüse

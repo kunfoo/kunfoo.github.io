@@ -20,7 +20,9 @@
 ## Horror
 - Der Babadook
 - The Conjuring
+- End of Watch
 - Der Exorzist
+- The Fighter
 - Get Out
 - Halloween - Die Nacht des Grauens
 - Hügel der blutigen Augen (2006, The Hills Have Eyes)
