@@ -1,5 +1,8 @@
 # IT - Links
 ## Information Security
+### Mobile Pentesting
+- [awesome-mobile-security (github list))](https://github.com/vaib25vicky/awesome-mobile-security)
+
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
 - [iOS Pentesting - Introduction](https://trelis24.github.io/2018/06/13/Pentesting-iOS-Introduction/)

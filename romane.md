@@ -13,7 +13,8 @@
 - Sten Nadolny - Die Entdeckung der Langsamkeit
 - Sven Regener - Herr-Lehmann-Reihe
 - Rocko Schamoni - Dorfpunks
-- Hein Strunk - Fleisch ist mein Gemüse
+- Ferdinand von Schirach - Verbrechen
+- Heinz Strunk - Fleisch ist mein Gemüse
 - Benjamin von Stuckrad-Barre - Panikherz
 - Juli Zeh - Spieltrieb
 
