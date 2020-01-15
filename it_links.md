@@ -1,10 +1,10 @@
 # IT - Links
 ## Information Security
 ### Pentesting
-- [Payloads All The Things (github list))](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Payloads All The Things (github list)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ### Mobile Pentesting
-- [awesome-mobile-security (github list))](https://github.com/vaib25vicky/awesome-mobile-security)
+- [awesome-mobile-security (github list)](https://github.com/vaib25vicky/awesome-mobile-security)
 
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
