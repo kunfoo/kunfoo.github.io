@@ -35,3 +35,9 @@
 - Air - Moon Safari
 - Jefferson Airplane - Surrealistic Pillow
 - Moby - Play
+
+## Song of the Day
+Manchmal entdecke ich ein Lied und muss es mir den ganzen Tag über, immer wieder, also quasi in Endlosschleife anhören.
+
+- 23.01.2020: The Tremeloes - Here Comes My Baby
+- 07.01.2020: Commodores - Nightshift
