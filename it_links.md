@@ -5,6 +5,7 @@
 
 ### Mobile Pentesting
 - [awesome-mobile-security (github list)](https://github.com/vaib25vicky/awesome-mobile-security)
+- [objection](https://github.com/sensepost/objection)
 
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
@@ -21,3 +22,14 @@
 
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+
+### Hardware Security
+- [NSA ANT catalog](https://en.wikipedia.org/wiki/NSA_ANT_catalog)
+- [TPM Genie](https://github.com/nccgroup/TPMGenie)
+- [INCEPTION (DMA attack)](https://github.com/carmaa/inception)
+- [PCILeech (DMA attack)](https://github.com/ufrisk/pcileech)
+
+### Useful Tools
+- [Frida](https://frida.re/)
+- [Ghidra](https://ghidra-sre.org/)
+- [pwntools](https://github.com/Gallopsled/pwntools)

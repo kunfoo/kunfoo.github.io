@@ -4,3 +4,6 @@
 
 ## Politik
 - [libcom.org](https://libcom.org/notes/about)
+
+## Kurioses
+- [Von uns bekommt ihr nix!](https://vonunsbekommtihrnix.noblogs.org/)
