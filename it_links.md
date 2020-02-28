@@ -14,7 +14,7 @@
 - [lldb for iOS](https://github.com/abit-me/lldb.ios)
 - [gdb and lldb command examples](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-command-examples.html)
 
-### Linux hardening
+### Linux Security
 - [Linux Hardening in the Wild](https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/)
 
 ### Web Pentesting
@@ -28,6 +28,9 @@
 - [TPM Genie](https://github.com/nccgroup/TPMGenie)
 - [INCEPTION (DMA attack)](https://github.com/carmaa/inception)
 - [PCILeech (DMA attack)](https://github.com/ufrisk/pcileech)
+
+### BIOS/UEFI/Boot Security
+- [Defeating a Laptop's BIOS Password](https://github.com/skysafe/reblog/blob/master/0000-defeating-a-laptops-bios-password/README.md)
 
 ### Useful Tools
 - [Frida](https://frida.re/)
