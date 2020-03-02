@@ -20,13 +20,13 @@ ${#FOO[@]}
 ## Environment Variables
 - HISTFILE
   - set path to file, where bash history is stored (default ~/.bash_history)
-  - f.e. disable history: ```HISTFILE=/dev/null```
+  - f.e. disable history: `HISTFILE=/dev/null`
 - LC_ALL
   - override all localisation settings
-  - f.e. read manpage in system's/application's 'default' language: ```LC_ALL=C man man```
+  - f.e. read manpage in system's/application's 'default' language: `LC_ALL=C man man`
 - TMOUT
   - session timeout in seconds
-  - f.e. kill the shell after 5 minutes of inactivity: ```TMOUT=300```
+  - f.e. kill the shell after 5 minutes of inactivity: `TMOUT=300`
 
 ## misc
 use vi-keybindings in bash
