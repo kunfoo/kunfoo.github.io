@@ -1,0 +1,27 @@
+deb https://deb.debian.org/debian/ buster main contrib
+deb-src https://deb.debian.org/debian/ buster main contrib
+
+deb https://security.debian.org/debian-security buster/updates main contrib
+deb-src https://security.debian.org/debian-security buster/updates main contrib
+
+# buster-updates, previously known as 'volatile'
+deb https://deb.debian.org/debian/ buster-updates main contrib
+deb-src https://deb.debian.org/debian/ buster-updates main contrib
+
+# buster-backports
+deb https://deb.debian.org/debian buster-backports main contrib
+
+# spotify
+# deb https://repository.spotify.com stable non-free
+
+# virtualbox
+deb https://download.virtualbox.org/virtualbox/debian buster contrib
+
+# metasploit
+# deb https://apt.metasploit.com buster main
+
+# deb [arch=amd64] https://download.docker.com/linux/debian buster stable
+# deb-src [arch=amd64] https://download.docker.com/linux/debian buster stable
+
+deb https://deb.debian.org/debian/ testing main contrib
+deb-src https://deb.debian.org/debian/ testing main contrib
