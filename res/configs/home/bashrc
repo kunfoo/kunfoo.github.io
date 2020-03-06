@@ -1,0 +1,8 @@
+set -o vi
+set bell-style none
+
+alias less="less -i"
+
+export TERM=xterm
+export EDITOR=/usr/bin/bin
+export TZ="Europe/Berlin"
