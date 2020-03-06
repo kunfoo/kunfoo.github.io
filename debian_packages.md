@@ -19,6 +19,7 @@ i3
 i3status
 lightdm
 suckless-tools
+x11-xserver-utils
 xfce4-terminal
 xscreensaver
 xserver-xorg
