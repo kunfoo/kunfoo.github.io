@@ -19,6 +19,7 @@
 
 ### Web Pentesting
 - [MDN - Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
