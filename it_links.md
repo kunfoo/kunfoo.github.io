@@ -16,6 +16,7 @@
 
 ### Linux Security
 - [Linux Hardening in the Wild](https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/)
+- [Fixing the Desktop Linux Security Model](https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172)
 
 ### Web Pentesting
 - [MDN - Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -33,7 +34,17 @@
 ### BIOS/UEFI/Boot Security
 - [Defeating a Laptop's BIOS Password](https://github.com/skysafe/reblog/blob/master/0000-defeating-a-laptops-bios-password/README.md)
 
+### Guides
+- [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
+- [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+
 ### Useful Tools
 - [Frida](https://frida.re/)
 - [Ghidra](https://ghidra-sre.org/)
+- [peda](https://github.com/longld/peda)
 - [pwntools](https://github.com/Gallopsled/pwntools)
+
+## General IT
+### Debian
+- [Removal of jessie-updates and jessie-backports from debian mirrors](https://www.lucas-nussbaum.net/blog/?p=947)
+  - this article has a nice graph of how packages go through the different repositories (security, stable-updates, ...)
