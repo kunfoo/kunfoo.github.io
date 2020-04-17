@@ -1,8 +1,11 @@
 # Romane
+Eine Liste von Büchern, die ich empfehlen kann.
+
 ## Lieblingsbücher
 - Robert Heinlein - Starship Troopers
 - Hermann Hesse - Siddharta
 - Chuck Palahniuk - Fight Club
+- Vladimir Nabokov - Lolita
 
 ## Deutsche Autoren
 - Andreas Eschbach - NSA
@@ -10,6 +13,7 @@
 - Hermann Hesse - Demian
 - Markus Kavka - Rottenegg
 - Marc-Uwe Kling - Die Känguru-Trilogie
+- Marc-Uwe Kling - Qualityland
 - Sten Nadolny - Die Entdeckung der Langsamkeit
 - Sven Regener - Herr-Lehmann-Reihe
 - Rocko Schamoni - Dorfpunks

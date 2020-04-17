@@ -37,4 +37,6 @@ können, umso besser!
   - [Sachbücher](sachbuecher)
 - [Filme](filme)
 - [Musik](musik)
+- [Theorien](theorien)
+- [Zitate](zitate)
 - [Links](culture_links)

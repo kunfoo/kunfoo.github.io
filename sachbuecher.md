@@ -1,6 +1,6 @@
 # Sachbücher
 ## (Auto-)Biographien
-- Richard Feynman - Die belieben wohl zu scherzen, Mr. Feynman!
+- Richard Feynman - Sie belieben wohl zu scherzen, Mr. Feynman!
 - Hermann Vinke - Das kurze Leben der Sophie Scholl
 - Steve Wozniak - iWoz
 

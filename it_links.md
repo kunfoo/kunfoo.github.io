@@ -18,6 +18,9 @@
 - [Linux Hardening in the Wild](https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/)
 - [Fixing the Desktop Linux Security Model](https://forums.whonix.org/t/fixing-the-desktop-linux-security-model/9172)
 
+### Windows Security
+- [Kerberosity Killed the Domain: An Offensive Kerberos Overview](https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61)
+
 ### Web Pentesting
 - [MDN - Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
@@ -37,6 +40,11 @@
 ### Guides
 - [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+
+### Memorable Articles and Stuff
+- [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
+- [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
+- [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
 
 ### Useful Tools
 - [Frida](https://frida.re/)
