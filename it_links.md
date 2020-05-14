@@ -1,5 +1,9 @@
 # IT - Links
 ## Information Security
+### Information Gathering
+- [IPv4info](http://ipv4info.com/)
+- [Shodan](https://www.shodan.io/)
+
 ### Pentesting
 - [Payloads All The Things (github list)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
@@ -24,6 +28,7 @@
 ### Web Pentesting
 - [MDN - Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
@@ -41,11 +46,6 @@
 - [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
 
-### Memorable Articles and Stuff
-- [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
-- [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
-- [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
-
 ### Useful Tools
 - [Frida](https://frida.re/)
 - [Ghidra](https://ghidra-sre.org/)
@@ -53,6 +53,14 @@
 - [pwntools](https://github.com/Gallopsled/pwntools)
 
 ## General IT
+### Web
+- [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
 ### Debian
 - [Removal of jessie-updates and jessie-backports from debian mirrors](https://www.lucas-nussbaum.net/blog/?p=947)
   - this article has a nice graph of how packages go through the different repositories (security, stable-updates, ...)
+
+### Memorable Articles and Stuff
+- [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
+- [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
+- [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
