@@ -1,4 +1,10 @@
 # Other tools
+## awk
+- print the first and the last column, separated by tab, use field separator ","
+```
+awk -F ',' '{ print $1 "\t" $NF}'
+```
+
 ## find
 - find and list world-writable files and directories in cwd and subdirectories
 ```
