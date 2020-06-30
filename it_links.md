@@ -1,8 +1,12 @@
 # IT - Links
 ## Information Security
 ### Information Gathering
+- [CVE Details](https://www.cvedetails.com/)
+- [Exploit Database](https://www.exploit-db.com/)
 - [IPv4info](http://ipv4info.com/)
+- [Linux Distribution Packages Database](https://pkgs.org/)
 - [Shodan](https://www.shodan.io/)
+- [Snyk Vulnerability DB](https://snyk.io/vuln/)
 
 ### Pentesting
 - [Payloads All The Things (github list)](https://github.com/swisskyrepo/PayloadsAllTheThings)
