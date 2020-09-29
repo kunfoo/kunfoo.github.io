@@ -9,11 +9,13 @@
 - [Snyk Vulnerability DB](https://snyk.io/vuln/)
 
 ### Pentesting
-- [Payloads All The Things (github list)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Payloads All The Things (github collection)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [SecLists wordlists (github collection)](https://github.com/danielmiessler/SecLists)
 
 ### Mobile Pentesting
-- [awesome-mobile-security (github list)](https://github.com/vaib25vicky/awesome-mobile-security)
+- [awesome-mobile-security (github collection)](https://github.com/vaib25vicky/awesome-mobile-security)
 - [objection](https://github.com/sensepost/objection)
+- [objection tutorial](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/frida-tutorial/objection-tutorial)
 
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
