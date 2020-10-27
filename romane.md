@@ -12,15 +12,13 @@ Eine Liste von Büchern, die ich empfehlen kann.
 - Wolfgang Herrndorf - Tschick
 - Hermann Hesse - Demian
 - Markus Kavka - Rottenegg
-- Marc-Uwe Kling - Die Känguru-Trilogie
-- Marc-Uwe Kling - Qualityland
+- Marc-Uwe Kling - Die Känguru-Trilogie, Qualityland
 - Sten Nadolny - Die Entdeckung der Langsamkeit
 - Sven Regener - Herr-Lehmann-Reihe
 - Rocko Schamoni - Dorfpunks
 - Ferdinand von Schirach - Verbrechen
 - Heinz Strunk - Fleisch ist mein Gemüse
 - Benjamin von Stuckrad-Barre - Panikherz
-- Juli Zeh - Spieltrieb
 
 ## Internationale Autoren
 - Michail Bulgakow - Der Meister und Margarita
@@ -35,7 +33,7 @@ Eine Liste von Büchern, die ich empfehlen kann.
 - Franz Kafka - Die Verwandlung
 - Herman Melville - Moby Dick
 - E.M. Remarque - Im Westen nichts Neues
-- Leo Tolstoi - Krieg und Frieden
+- Leo Tolstoi - Anna Karenina, Krieg und Frieden
 
 ## Gar keine Romane (aber auch keine Sachbücher)
 - Wolfgang Herrndorf - Arbeit und Struktur

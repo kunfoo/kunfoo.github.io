@@ -14,6 +14,7 @@
 
 ## Philosophie
 - Erich Fromm - Haben oder Sein
+- Thomas Nagel - Was bedeutet das alles?
 
 ## Politik (oder so)
 - Francis Fukuyama - Das Ende der Geschichte
