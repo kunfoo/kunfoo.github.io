@@ -5,6 +5,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 * _Mit dem Wissen wächst der Zweifel._ Goethe
 * _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 * _Es gibt kein richtiges Leben im falschen._ Theodor W. Adorno - Minima Moralia
+* _Freiheit ist immer Freiheit der Andersdenkenden._ Rosa Luxemburg
 
 ## IT
 * _Program testing can be used to show the presence of bugs, but never to show their absence._ Edsger W. Dijkstra
