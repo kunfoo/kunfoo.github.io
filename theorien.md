@@ -19,9 +19,9 @@
 ---
 
 ## IT
-### Zookos Dreieck
-Nach [Wikipedia](https://de.wikipedia.org/wiki/Zookos_Dreieck) eine Theorie,
-_nach der ein Namensraum in einem Rechnernetz nur zwei der drei Eigenschaften
-dezentralisiert, sicher und aussagekräftig gleichzeitig erfüllen kann._
+### Gesetz von Conway
+_Organizations which design systems […] are constrained to produce designs which are copies of the communication structures of these organizations._
+
+[Wikipedia](https://de.wikipedia.org/wiki/Gesetz_von_Conway)
 
 ---
