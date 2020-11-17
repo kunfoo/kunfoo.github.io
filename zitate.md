@@ -14,7 +14,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 > Tragen Masken bis zum Grab;
 > Nur in tollen Faschingstagen,
 > Wenn sie Narrenmasken tragen,
-> Da nur fällt die Maske ab._
+> Da nur fällt die Maske ab.
 _Unbekannter Autor_
 
 ### Chinesische Weisheit aus dem Talmud
