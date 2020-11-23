@@ -3,6 +3,7 @@
 - American Beauty
 - Donnie Darko
 - Fight Club
+- Forrest Gump
 - Heat
 - No Country for Old Men
 - Oh Boy
@@ -20,11 +21,12 @@
 ## Horror
 - Der Babadook
 - The Conjuring
-- End of Watch
+- Carrie (1976)
 - Der Exorzist
-- The Fighter
+- Die Fliege (The Fly)
 - Get Out
 - Halloween - Die Nacht des Grauens
+- Hereditary
 - Hügel der blutigen Augen (2006, The Hills Have Eyes)
   - hier ist ausnahmsweise der deutsche Titel mal dermaßen viel besser als der
     englische
@@ -39,25 +41,30 @@
 
 ## Science Fiction
 - 2001 - Odyssee im Weltraum
+- Alien I und II
 - Interstellar
 - Sunshine
 
 ## Hat auch ein Genre
 - Amadeus
+- Collateral
 - Der Gott des Gemetzels (Carnage)
 - Ed Wood
+- End of Watch
 - Falling Down
-- Forrest Gump
+- The Fighter
 - Full Metal Jacket
+- Herz aus Stahl (Fury)
 - I, Tonya
 - Once Upon a Time in Hollywood
 - Predator
+- Sieben (Se7en)
 - Sleepy Hollow
 - Three Billboards Outside Ebbing, Missouri
+- Zodiac
 
 ## Serien
 - Babylon Berlin
-  - bisher nur die erste Staffel gesehen
 - Band of Brothers
 - Breaking Bad
 - Fargo
@@ -65,3 +72,10 @@
 - Star Trek: The Next Generation
 - True Detective
   - nur die erste Staffel, aber die ist großartig
+
+## Schauspieler
+- Al Pacino
+- Brad Pitt
+- Johnny Depp
+- Jake Gyllenhaal
+- Robert De Niro
