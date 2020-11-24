@@ -20,8 +20,10 @@
 ## Rock
 - Black Sabbath - Master of Reality, Paranoid
 - Camel - Mirage
+- The Dandy Warholes - Thirteen Tales From Urban Bohemia
 - Deep Purple - Shades of Deep Purple
 - Led Zeppelin - I, IV
+- Lyres - On Fyre
 - Oasis - Definitely Maybe, Morning Glory
 
 ## Punk
