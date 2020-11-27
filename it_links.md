@@ -60,6 +60,7 @@
 
 ### Attestation
 - [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
+- [Key Transparency](https://github.com/google/keytransparency/)
 
 ### Useful Tools
 - [Frida](https://frida.re/)
