@@ -53,6 +53,12 @@
 - [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
 
+### Crypto
+- [Going Bark: A Furry’s Guide to End-to-End Encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
+
+### Attestation
+- [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
+
 ### Useful Tools
 - [Frida](https://frida.re/)
 - [Ghidra](https://ghidra-sre.org/)
