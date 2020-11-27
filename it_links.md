@@ -52,6 +52,8 @@
 ### Guides
 - [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+- [HackTricks](https://book.hacktricks.xyz/)
+  - Awesome guide for pentesting web, linux, windows, mobile, etc.
 
 ### Crypto
 - [Going Bark: A Furry’s Guide to End-to-End Encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
