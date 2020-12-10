@@ -17,6 +17,9 @@
 - [objection](https://github.com/sensepost/objection)
 - [objection tutorial](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/frida-tutorial/objection-tutorial)
 
+### Android Pentesting
+- [Android Permissions](http://androidpermissions.com/)
+
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
 - [iOS Pentesting - Introduction](https://trelis24.github.io/2018/06/13/Pentesting-iOS-Introduction/)
