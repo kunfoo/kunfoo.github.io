@@ -17,6 +17,9 @@
 - [objection](https://github.com/sensepost/objection)
 - [objection tutorial](https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/frida-tutorial/objection-tutorial)
 
+### Android Pentesting
+- [Android Permissions](http://androidpermissions.com/)
+
 ### iOS Pentesting
 - [iOS Security 101 (slides)](https://drobinin.com/assets/talks/mdevcamp-drobinin-slides-nobuild.pdf)
 - [iOS Pentesting - Introduction](https://trelis24.github.io/2018/06/13/Pentesting-iOS-Introduction/)
@@ -52,6 +55,15 @@
 ### Guides
 - [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
 - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)
+- [HackTricks](https://book.hacktricks.xyz/)
+  - Awesome guide for pentesting web, linux, windows, mobile, etc.
+
+### Crypto
+- [Going Bark: A Furry’s Guide to End-to-End Encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
+
+### Attestation
+- [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
+- [Key Transparency](https://github.com/google/keytransparency/)
 
 ### Useful Tools
 - [Frida](https://frida.re/)
