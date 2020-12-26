@@ -24,6 +24,7 @@
 - Carrie (1976)
 - Der Exorzist
 - Die Fliege (The Fly)
+- Don't Breathe
 - Get Out
 - Halloween - Die Nacht des Grauens
 - Hereditary
@@ -32,11 +33,13 @@
     englische
 - Let Me In
 - A Quiet Place
+- Ready or Not
 - Rosemary's Baby
 - Saw
   - aber auch wirklich nur der erste Teil
 - Shining
 - Tanz der Teufel I-III (Evil Dead)
+- Der Unsichtbare (2020, The Invisible Man)
 - Wrong Turn
 
 ## Science Fiction

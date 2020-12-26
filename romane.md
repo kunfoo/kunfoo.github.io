@@ -12,6 +12,7 @@ Eine Liste von Büchern, die ich empfehlen kann.
 - Wolfgang Herrndorf - Tschick
 - Hermann Hesse - Demian
 - Markus Kavka - Rottenegg
+- Christian Kracht - Faserland
 - Marc-Uwe Kling - Die Känguru-Trilogie, Qualityland
 - Sten Nadolny - Die Entdeckung der Langsamkeit
 - Sven Regener - Herr-Lehmann-Reihe
