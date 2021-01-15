@@ -17,3 +17,7 @@ find /usr -type f \( -perm -04000 -o -perm -02000 \)
 ```
 
 ## screen
+
+## not so frequently used
+- paste
+- shuf
