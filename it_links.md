@@ -60,6 +60,7 @@
 
 ### Crypto
 - [Going Bark: A Furry’s Guide to End-to-End Encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
+- [Latacora - The PGP Problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
 
 ### Attestation
 - [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
