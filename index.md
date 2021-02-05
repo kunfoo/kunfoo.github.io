@@ -11,6 +11,7 @@ dienen diese Listen mir selbst. Falls sie auch jemand anderem dienlich sein
 können, umso besser!
 
 ## IT
+- [Schnipsel](schnipsel)
 - Basic tools
   - [bash](bash)
   - [ELF](elf)
