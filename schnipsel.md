@@ -1,15 +1,9 @@
 # Schnipsel
 
 ## openssl
-```
-openssl x509 -in /tmp/cert.der -inform der -text -noout
-```
-```
-openssl x509 -in /tmp/cert.der -inform der -outform pem -out /tmp/cert.pem
-```
-```
-openssl rsa -in /tmp/key.der -inform der -check -noout -text
-```
+- `openssl x509 -in /tmp/cert.der -inform der -text -noout`
+- `openssl x509 -in /tmp/cert.der -inform der -outform pem -out /tmp/cert.pem`
+- `openssl rsa -in /tmp/key.der -inform der -check -noout -text`
 
 ## adb
 - `adb shell am stack list`
