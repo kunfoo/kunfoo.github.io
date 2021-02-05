@@ -19,9 +19,9 @@ ${#FOO[@]}
 
 ## Environment Variables
 - HISTFILE
-  - set path to file, where bash history is stored (default ~/.bash_history)
+  - set path to file, where bash history is stored (default ~/.bash\_history)
   - f.e. disable history: `HISTFILE=/dev/null`
-- LC_ALL
+- LC\_ALL
   - override all localisation settings
   - f.e. read manpage in system's/application's 'default' language: `LC_ALL=C man man`
 - TMOUT
