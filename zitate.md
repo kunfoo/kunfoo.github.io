@@ -27,3 +27,6 @@ _Mahatma Gandhi_
 
 ## IT
 * _Program testing can be used to show the presence of bugs, but never to show their absence._ Edsger W. Dijkstra
+
+## English
+* _Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
