@@ -15,12 +15,10 @@ können, umso besser!
 - Basic tools
   - [bash](bash)
   - [ELF](elf)
-  - [git](git)
   - [Networking](network_tools)
+  - [Python](python)
   - [ssh](ssh)
   - [System](system_tools)
-  - [systemd](systemd)
-  - [vim](vim)
   - [Other](other_tools)
 - Pentesting
   - [frida](frida)
