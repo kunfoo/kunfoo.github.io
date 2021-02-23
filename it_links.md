@@ -11,6 +11,7 @@
 ### Pentesting
 - [Payloads All The Things (github collection)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [SecLists wordlists (github collection)](https://github.com/danielmiessler/SecLists)
+- [Unicode confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp?a=%22&r=None)
 
 ### Mobile Pentesting
 - [awesome-mobile-security (github collection)](https://github.com/vaib25vicky/awesome-mobile-security)
