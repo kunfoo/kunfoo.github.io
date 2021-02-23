@@ -62,8 +62,5 @@ pr = requests.post(url, json=params, headers=headers, cookies=cookies, verify=Fa
 #Post request sending a file(files) and extra values
 filedict = {"<FILE_PARAMETER_NAME>" : ("filename.png", open("filename.png", 'rb').read(), "image/png")}
 pr = requests.post(url, data={"submit": "submit"}, files=filedict)
-
-#Useful for presenting results in boolean/timebased injections
-print(f"\rflag: {flag}{char}", end="")
 ```
 Shamelessly stolen from https://book.hacktricks.xyz/misc/basic-python/web-requests
