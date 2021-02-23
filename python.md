@@ -30,7 +30,8 @@ f"{a} and {b}"
 ```
 
 ## Code Samples
-Make an http request:
+
+### Make an http request
 ```python
 import requests
 
