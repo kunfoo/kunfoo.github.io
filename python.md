@@ -31,7 +31,7 @@ f"{a} and {b}"
 
 ## Code Samples
 Make an http request:
-```
+```python
 import requests
 
 url = "http://example.com:80/some/path.php"
@@ -62,4 +62,4 @@ pr = requests.post(url, json=params, headers=headers, cookies=cookies, verify=Fa
 filedict = {"<FILE_PARAMETER_NAME>" : ("filename.png", open("filename.png", 'rb').read(), "image/png")}
 pr = requests.post(url, data={"submit": "submit"}, files=filedict)
 ```
-Shamelessly stolen from [https://book.hacktricks.xyz/misc/basic-python/web-requests]
+Shamelessly stolen from <https://book.hacktricks.xyz/misc/basic-python/web-requests>
