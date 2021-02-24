@@ -40,6 +40,7 @@
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 - [Better API Penetration Testing with Postman](https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html)
+- [How to Find XXE Bugs](https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/)
 
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
