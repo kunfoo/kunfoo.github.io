@@ -48,6 +48,7 @@
 - 2001 - Odyssee im Weltraum
 - Alien I und II
 - Interstellar
+- Starship Troopers
 - Sunshine
 
 ## Hat auch ein Genre
@@ -55,6 +56,7 @@
 - Collateral
 - Der Gott des Gemetzels (Carnage)
 - Ed Wood
+- Edward mit den Scherenhänden (Edward Scissorhands)
 - End of Watch
 - Falling Down
 - The Fighter
