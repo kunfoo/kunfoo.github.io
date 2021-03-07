@@ -13,3 +13,4 @@
 - `iconv -f utf-16 -t utf-8 $FILE`
   - convert utf-16 encoded file to utf-8
 - `podman run -it ubuntu`
+- `mount.cifs //$HOST/$SHARE /$MNT/$POINT -o user=$USER,uid=1000`
