@@ -1,5 +1,16 @@
 # Python
 
+## Builtins
+
+### functions
+- bin(num)
+- chr(num)
+- dir(object)
+- hex(num)
+- len(obj)
+- ord(char)
+- sorted(iterable)
+
 ## Strings
 ```
 """multi
@@ -11,17 +22,30 @@ string"""
  line\
  string"
 ```
+```
+a = "strings" "are" "automatically" "concatenated"
+```
+```
+r"raw\nstring"
+> 'raw\\nstring'
+b"byte string \x3a\x2d\x29"
+> b'byte string :-)'
+u"unicode string \xe4\xf6\xfc\xdf"
+> 'unicode string äöüß'
+```
 
-### format
+### format()
 ```
 "{0} and {1}".format("apples", "bananas")
 ```
 ```
 from math import pi
 "pi is {:.3f}".format(pi)
+> 'pi is 3.142'
 ```
 ```
 "{0:_^11}".format("hello")
+> '___hello___'
 ```
 ```
 a = "apples"
