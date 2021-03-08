@@ -20,3 +20,7 @@
 - Francis Fukuyama - Das Ende der Geschichte
 - Daniel Loick - Anarchismus zur Einführung
 - Horst Stowasser - Anarchie!
+
+## Sport
+- W.Timothy Gallwey - Tennis - Das Innere Spiel
+- [Greg Glassman - What Is Fitness?](https://journal.crossfit.com/article/what-is-fitness)
