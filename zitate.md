@@ -7,6 +7,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 * _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 * _Es gibt kein richtiges Leben im falschen._ Theodor W. Adorno - Minima Moralia
 * _Freiheit ist immer Freiheit der Andersdenkenden._ Rosa Luxemburg
+* _Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet._ George Bernard Shaw
 
 ## ~~Aphorismen~~ Schlaumeiereien
 ### Ein Gedicht
