@@ -87,5 +87,8 @@
 - [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
 
+### Server Configuration
+- [SSH login alert with sendmail and PAM](https://medium.com/@alessandrocuda/ssh-login-alerts-with-sendmail-and-pam-3ef53aca1381)
+
 ### Useful Tools
 - [RegExr: Learn, Build & Test RegEx](https://regexr.com/)
