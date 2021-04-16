@@ -68,12 +68,6 @@
 - [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
 - [Key Transparency](https://github.com/google/keytransparency/)
 
-### Useful Tools
-- [Frida](https://frida.re/)
-- [Ghidra](https://ghidra-sre.org/)
-- [peda](https://github.com/longld/peda)
-- [pwntools](https://github.com/Gallopsled/pwntools)
-
 ## General IT
 ### Web
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
