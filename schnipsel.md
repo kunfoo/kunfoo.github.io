@@ -14,6 +14,7 @@
   - convert utf-16 encoded file to utf-8
 - `podman run -it ubuntu`
 - `mount.cifs //$HOST/$SHARE /$MNT/$POINT -o user=$USER,uid=1000`
+- `gpg -c --cipher-algo AES256 $FILE`
 
 ## xrandr
 - `cvt 1920 1080 60`
