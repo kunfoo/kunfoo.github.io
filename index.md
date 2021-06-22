@@ -16,6 +16,7 @@ können, umso besser!
   - [bash](bash)
   - [ELF](elf)
   - [Networking](network_tools)
+  - [Paketmanager](paketmanager)
   - [Python](python)
   - [ssh](ssh)
   - [System](system_tools)
