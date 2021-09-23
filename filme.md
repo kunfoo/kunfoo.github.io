@@ -65,6 +65,7 @@
 - I, Tonya
 - Once Upon a Time in Hollywood
 - Predator
+- Promising Young Woman
 - Sieben (Se7en)
 - Sleepy Hollow
 - Spring Breakers
