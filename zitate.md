@@ -32,3 +32,4 @@ _Mahatma Gandhi_
 
 ## English
 * _Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
+* _The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum_ Noam Chomsky
