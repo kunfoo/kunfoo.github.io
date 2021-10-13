@@ -9,3 +9,8 @@
 ```
 :g!/pattern/d
 ```
+
+- copy to clipboard (the \* buffer)
+```
+"*y
+```
