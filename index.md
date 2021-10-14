@@ -18,7 +18,6 @@ können, umso besser!
   - [Networking](network_tools)
   - [Paketmanager](paketmanager)
   - [Python](python)
-  - [ssh](ssh)
   - [System](system_tools)
   - [vim](vim)
   - [Other](other_tools)
