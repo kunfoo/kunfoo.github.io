@@ -1,12 +1,17 @@
 # Kultur - Links
-## Blogs
-- [Slate Star Codex](https://slatestarcodex.com/)
 
 ## Politik
+- [Die anarchistische Onlinebibliothek](https://anarchistischebibliothek.org)
+- [The Anarchist Library](https://theanarchistlibrary.org)
+- [Freie Arbeiter\*innen-Union](https://www.fau.org)
 - [libcom.org](https://libcom.org/notes/about)
 
 ## Kurioses
 - [Von uns bekommt ihr nix!](https://vonunsbekommtihrnix.noblogs.org/)
 
 ## Dokus
+- [Adam Curtis](https://thoughtmaybe.com/by/adam-curtis/)
 - [Chaostage - Kampf der Welten 1995](https://www.youtube.com/watch?v=4NmwaYWnYuQ)
+
+## Texte
+- [Die Entschuldung und Erneuerung der Gesellschaft](https://www.deutschlandfunk.de/oekonomie-des-gluecklichen-lebens-3-3-die-entschuldung-und.1184.de.html?dram:article_id=251361)
