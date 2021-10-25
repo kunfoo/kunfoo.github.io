@@ -86,3 +86,4 @@
 
 ### Useful Tools
 - [RegExr: Learn, Build & Test RegEx](https://regexr.com/)
+- [Producing Beamer slide shows from markdown using Pandoc](https://ashwinschronicles.github.io/beamer-slides-using-markdown-and-pandoc)

@@ -16,6 +16,8 @@
 - `mount.cifs //$HOST/$SHARE /$MNT/$POINT -o user=$USER,uid=1000`
 - `mount -t nfs $HOST:/$SHARE /$MNT/$POINT
 - `gpg -c --cipher-algo AES256 $FILE`
+- `echo 100 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness`
+- `pandoc -t slidy -o presentation.html -s presentation.md`
 
 ## xrandr
 - `cvt 1920 1080 60`
