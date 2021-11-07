@@ -2,10 +2,27 @@
 ... helfen mir über die Welt nachzudenken und einem Verstehen näher zu kommen.
 
 ## Anarchismus
+- Ausbeutung
+- Klasse
+- Präfigurative Politik
 
 ## Psychologie
+### Bedürfnispyramide
+Die Bedürfnispyramide beschreibt eine hierarchische Struktur menschlicher Bedürfnisse und Motivationen nach A. Maslow.
+Bedürfnisse bauen aufeinander auf, d.h. Grundbedürfnisse müssen in ausreichendem Maße befriedigt sein, damit *höhere*
+Bedürfnisse relevant werden. Die klassischen fünf Ebenen sind von unten nach oben: 
+1. Physiologische Bedürfnisse (z.B. Nahrung, Schlaf)
+2. Sicherheitsbedürfnisse (z.B. materielle Grundsicherung, Wohnung)
+3. Soziale Bedürfnisse (z.B. Familie, Freundschaft, Gruppenzugehörigkeit)
+4. Individualbedürfnisse (z.B. Wertschätzung, Erfolg, Freiheit, Unabhängigkeit)
+5. Selbstverwirklichung (*das eigene Potenzial ausschöpfen*)
+
+[Wikipedia](https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie)
+
+---
+
 ### Big 5
-- 5 Hauptdimensionen der Persönlichkeit eines Menschen:
+Dieser Theorie nach besteht die menschliche Persönlichkeit aus den folgenden 5 Hauptdimensionen:
 1. Offenheit für Erfahrunfen (Aufgeschlossenheit)
 2. Gewissenhaftigkeit (Perfektionismus)
 3. Extraversion (Geselligkeit, Extravertiertheit)
@@ -26,6 +43,13 @@
 
 ---
 
+### Evolution
+- Entstehung der Arten durch Mutation von Genen, wobei sich vorteilhafte Mutationen durchsetzen.
+
+[Wikipedia](https://de.wikipedia.org/wiki/Evolution)
+
+---
+
 ### Robotergesetze (nach Asimov)
 1. _Ein Roboter darf kein menschliches Wesen (wissentlich) verletzen oder durch Untätigkeit (wissentlich) zulassen, dass einem menschlichen Wesen Schaden zugefügt wird._
 2. _Ein Roboter muss den ihm von einem Menschen gegebenen Befehlen gehorchen – es sei denn, ein solcher Befehl würde mit Regel eins kollidieren._
@@ -40,5 +64,14 @@
 _Organizations which design systems […] are constrained to produce designs which are copies of the communication structures of these organizations._
 
 [Wikipedia](https://de.wikipedia.org/wiki/Gesetz_von_Conway)
+
+---
+
+## Weiteres
+### Pareto-Prinzip
+80% der Ergebnisse werden mit 20% des Gesamtaufwands erreicht. Die übrigen 20% der Ergebnisse erfordern den meisten
+Aufwand.
+
+[Wikipedia](https://de.wikipedia.org/wiki/Paretoprinzip)
 
 ---
