@@ -56,6 +56,7 @@
 - Children of Men
 - Collateral
 - Der Gott des Gemetzels (Carnage)
+- Dumm und Dümmer
 - Ed Wood
 - Edward mit den Scherenhänden (Edward Scissorhands)
 - End of Watch

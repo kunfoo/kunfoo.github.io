@@ -1,10 +1,23 @@
-# Theorien, Begriffe, Gesetzmäßigkeiten
-... helfen mir über die Welt nachzudenken und einem Verstehen näher zu kommen.
+# Begriffe, Theorien, ...
+Eine Erkenntnis der Sprachphilosophie lautet, dass menschliches Denken maßgeblich begrifflich geprägt ist, d.h.
+Sachverhalte für die wir keine Begriffe haben, können wir nicht verstehen, uns nicht vorstellen, ja gar nicht denken.
+
+Diese Seite beinhaltet eine jederzeit unvollständige Sammlung von Begriffen, Theorien, Gesetzmäßigkeiten oder
+Prinzipien, die mir helfen über die Welt nachzudenken und einem Verstehen näher zu kommen.
 
 ## Anarchismus
 - Ausbeutung
 - Klasse
 - Präfigurative Politik
+
+## Philosophie
+### Linguistische Wende (linguistic turn)
+- beschreibt die Erkenntis, dass unser Denken maßgeblich **begrifflich** ist
+- ein Begreifen von Sachverhalten, für die wir keine Begriffe haben, ist nicht möglich
+
+[Wikipedia](https://de.wikipedia.org/wiki/Linguistische_Wende)
+
+---
 
 ## Psychologie
 ### Bedürfnispyramide
@@ -67,10 +80,20 @@ _Organizations which design systems […] are constrained to produce designs whi
 
 ---
 
+### The Rule of 2
+Code sollte nicht mehr als 2 dieser Kategorien erfüllen, ansonsten droht **DOOM**.
+- verarbeitet nicht-vertrauenswürdige Eingaben,
+- wurde in einer *unsicheren* Programmiersprache (C/C++) geschrieben,
+- läuft nicht in einer Sandbox.
+
+[Wikipedia](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
+
+---
+
 ## Weiteres
 ### Pareto-Prinzip
 80% der Ergebnisse werden mit 20% des Gesamtaufwands erreicht. Die übrigen 20% der Ergebnisse erfordern den meisten
-Aufwand.
+Aufwand, daher auch 80-zu-20-Regel genannt.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Paretoprinzip)
 

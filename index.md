@@ -32,11 +32,11 @@ können, umso besser!
 - [Links](it_links)
 
 ## Kultur
+- [Begriffe](begriffe)
 - Bücher
   - [Romane](romane)
   - [Sachbücher](sachbuecher)
 - [Filme](filme)
 - [Musik](musik)
-- [Theorien](theorien)
 - [Zitate](zitate)
 - [Links](culture_links)
