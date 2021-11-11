@@ -35,3 +35,13 @@ _Mahatma Gandhi_
 * _Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
 * _The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum_ Noam Chomsky
 * _Perfect is the enemy of good._ Englische Redewendung
+
+## Anarchismus
+> Der erste, der ein Stück Land mit einem Zaun umgab und auf den Gedanken kam zu sagen "Dies gehört mir" und der Leute
+> fand, die einfältig genug waren, ihm zu glauben, war der eigentliche Begründer der bürgerlichen Gesellschaft. Wie viele
+> Verbrechen, Kriege, Morde, wieviel Elend und Schrecken wäre dem Menschengeschlecht erspart geblieben, wenn jemand die
+> Pfähle ausgerissen und seinen Mitmenschen zugerufen hätte: "Hütet euch, dem Betrüger Glauben zu schenken; ihr seid
+> verloren, wenn ihr vergesst, dass zwar die Früchte allen, aber die Erde niemandem gehört".
+_Jean Jacques Rousseau_
+
+* _Eigentum ist Diebstahl._ Pierre-Joseph Proudhon
