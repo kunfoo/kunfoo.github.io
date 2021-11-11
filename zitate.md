@@ -4,11 +4,15 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 * _Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden._ Arthur C. Clarke
 * _Mit dem Wissen wächst der Zweifel._ J.W. Goethe
 * _Es irrt der Mensch solang er strebt._ J.W. Goethe - Faust
-* _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 * _Es gibt kein richtiges Leben im falschen._ Theodor W. Adorno - Minima Moralia
 * _Freiheit ist immer Freiheit der Andersdenkenden._ Rosa Luxemburg
 * _Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet._ George Bernard Shaw
 * _Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt._ Ludwig Wittgenstein
+
+---
+
+* _Gewissermaßen ist das Leben die Gelegenheit zu sterben._ Nicolas Dierks - Mit Wittgenstein im Wartezimmer
+* _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 
 ## ~~Aphorismen~~ Schlaumeiereien
 ### Ein Gedicht
@@ -46,5 +50,7 @@ Mahatma Gandhi
 > verloren, wenn ihr vergesst, dass zwar die Früchte allen, aber die Erde niemandem gehört".  
 
 Jean Jacques Rousseau
+
+---
 
 * _Eigentum ist Diebstahl._ Pierre-Joseph Proudhon
