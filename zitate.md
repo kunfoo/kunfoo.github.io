@@ -18,7 +18,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 > Nur in tollen Faschingstagen,  
 > Wenn sie Narrenmasken tragen,  
 > Da nur fällt die Maske ab.  
-_Unbekannter Autor_
+Unbekannter Autor
 
 ### Chinesische Weisheit aus dem Talmud
 > Achte auf deine Gedanken, denn sie werden Worte.  
@@ -26,7 +26,7 @@ _Unbekannter Autor_
 > Achte auf deine Handlungen, denn sie werden Gewohnheiten.  
 > Achte auf deine Gewohnheiten, denn sie werden dein Charakter.  
 > Achte auf deinen Charakter, denn er wird dein Schicksal sein.  
-_Mahatma Gandhi_
+Mahatma Gandhi
 
 ## IT
 * _Program testing can be used to show the presence of bugs, but never to show their absence._ Edsger W. Dijkstra
@@ -41,7 +41,7 @@ _Mahatma Gandhi_
 > fand, die einfältig genug waren, ihm zu glauben, war der eigentliche Begründer der bürgerlichen Gesellschaft. Wie viele
 > Verbrechen, Kriege, Morde, wieviel Elend und Schrecken wäre dem Menschengeschlecht erspart geblieben, wenn jemand die
 > Pfähle ausgerissen und seinen Mitmenschen zugerufen hätte: "Hütet euch, dem Betrüger Glauben zu schenken; ihr seid
-> verloren, wenn ihr vergesst, dass zwar die Früchte allen, aber die Erde niemandem gehört".
-_Jean Jacques Rousseau_
+> verloren, wenn ihr vergesst, dass zwar die Früchte allen, aber die Erde niemandem gehört".  
+Jean Jacques Rousseau
 
 * _Eigentum ist Diebstahl._ Pierre-Joseph Proudhon
