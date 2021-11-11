@@ -18,6 +18,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 > Nur in tollen Faschingstagen,  
 > Wenn sie Narrenmasken tragen,  
 > Da nur fällt die Maske ab.  
+
 Unbekannter Autor
 
 ### Chinesische Weisheit aus dem Talmud
@@ -26,6 +27,7 @@ Unbekannter Autor
 > Achte auf deine Handlungen, denn sie werden Gewohnheiten.  
 > Achte auf deine Gewohnheiten, denn sie werden dein Charakter.  
 > Achte auf deinen Charakter, denn er wird dein Schicksal sein.  
+
 Mahatma Gandhi
 
 ## IT
@@ -42,6 +44,7 @@ Mahatma Gandhi
 > Verbrechen, Kriege, Morde, wieviel Elend und Schrecken wäre dem Menschengeschlecht erspart geblieben, wenn jemand die
 > Pfähle ausgerissen und seinen Mitmenschen zugerufen hätte: "Hütet euch, dem Betrüger Glauben zu schenken; ihr seid
 > verloren, wenn ihr vergesst, dass zwar die Früchte allen, aber die Erde niemandem gehört".  
+
 Jean Jacques Rousseau
 
 * _Eigentum ist Diebstahl._ Pierre-Joseph Proudhon
