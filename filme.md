@@ -52,6 +52,7 @@
 - Sunshine
 
 ## Hat auch ein Genre
+- Adaptation.
 - Amadeus
 - Children of Men
 - Collateral
@@ -66,6 +67,7 @@
 - Herz aus Stahl (Fury)
 - I, Tonya
 - Once Upon a Time in Hollywood
+- Pig
 - Predator
 - Promising Young Woman
 - Sieben (Se7en)
