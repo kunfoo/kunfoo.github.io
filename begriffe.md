@@ -7,8 +7,11 @@ Prinzipien, die mir helfen über die Welt nachzudenken und einem Verstehen nähe
 
 ## Anarchismus
 - Ausbeutung
+- Entfremdung
 - Klasse
 - Präfigurative Politik
+- Solidarität
+- (Anarcho-)Syndikalismus
 
 ## Philosophie
 ### Linguistische Wende (linguistic turn)
@@ -43,6 +46,17 @@ Dieser Theorie nach besteht die menschliche Persönlichkeit aus den folgenden 5 
 5. Neurotizismus (emotionale Labilität und Verletzlichkeit)
 
 [Wikipedia](https://de.wikipedia.org/wiki/Big_Five_(Psychologie))
+
+---
+
+### (Narzistische) Kränkung
+Nach Freud habe der Mensch 3 Kränkungen erfahren:
+1. Die kosmologische Kränkung durch Kopernikus. Die Erde steht nicht im Mittelpunkt des Universums.
+2. Die biologische Kränkung durch Darwin. Der Mensch kommt aus dem Tierreich und stammt vom Affen ab.
+3. Die psychologische Kränkung. Menschliches Handeln und Erleben sind maßgeblich vom Unbewussten beeinflusst (*das Ich
+   ist nicht Herr im eigenen Haus*).
+
+[Wikipedia](https://de.wikipedia.org/wiki/Kr%C3%A4nkungen_der_Menschheit)
 
 ---
 

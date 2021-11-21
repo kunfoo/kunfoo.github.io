@@ -24,6 +24,7 @@
 - Der Babadook
 - The Conjuring
 - Carrie (1976)
+- Die Farbe aus dem All (Color Out of Space)
 - Der Exorzist
 - Die Fliege (The Fly)
 - Don't Breathe

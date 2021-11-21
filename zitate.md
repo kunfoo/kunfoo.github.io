@@ -11,6 +11,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 
 ---
 
+* *Meine Definition von Glück? Keine Termine und leicht einen sitzen.* Harald Juhnke
 * _Gewissermaßen ist das Leben die Gelegenheit zu sterben._ Nicolas Dierks - Mit Wittgenstein im Wartezimmer
 * _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 
