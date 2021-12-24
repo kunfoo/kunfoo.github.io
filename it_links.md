@@ -12,6 +12,8 @@
 - [Payloads All The Things (github collection)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [SecLists wordlists (github collection)](https://github.com/danielmiessler/SecLists)
 - [Unicode confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp?a=%22&r=None)
+- [PoC Exploits in Github](https://github.com/nomi-sec/PoC-in-GitHub)
+- [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
 
 ### Mobile Pentesting
 - [awesome-mobile-security (github collection)](https://github.com/vaib25vicky/awesome-mobile-security)
@@ -71,6 +73,11 @@
 ## General IT
 ### Web
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+#### Browser Extensions
+- [Decentraleyes](https://decentraleyes.org/)
+- [uBlock Origin](https://ublockorigin.com/)
+- [Privacy Badger](https://privacybadger.org/)
 
 ### Debian
 - [Removal of jessie-updates and jessie-backports from debian mirrors](https://www.lucas-nussbaum.net/blog/?p=947)
