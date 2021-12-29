@@ -28,3 +28,18 @@
 ## jq
 - `jq -r '.[].ip' foo.json`
   - get field "ip" from json-formatted data
+
+## grep
+- `grep -v -f file1 file2`
+  - find lines in file2 that are not in file1
+
+## awk
+- `awk -F ',' '{ print $1 "\t" $NF}'`
+  - print the first and the last column, separated by tab, use field separator ","
+
+## find
+- `find . -perm -a+w -type d,f -ls`
+  - find and list world-writable files and directories in cwd and subdirectories
+
+- `find /usr -type f \( -perm -04000 -o -perm -02000 \)`
+  - find suid/sgid executables in /usr and subdirectories

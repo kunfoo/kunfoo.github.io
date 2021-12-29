@@ -20,7 +20,6 @@ können, umso besser!
   - [Python](python)
   - [System](system_tools)
   - [vim](vim)
-  - [Other](other_tools)
 - Pentesting
   - [frida](frida)
   - [metasploit](metasploit)
