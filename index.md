@@ -11,6 +11,7 @@ dienen diese Listen mir selbst. Falls sie auch jemand anderem dienlich sein
 können, umso besser!
 
 ## IT
+- [Logbookk](logbook)
 - [Schnipsel](schnipsel)
 - Basic tools
   - [bash](bash)
