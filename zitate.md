@@ -43,6 +43,7 @@ Mahatma Gandhi
 * _Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
 * _The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum._ Noam Chomsky
 * _Perfect is the enemy of good._ Englische Redewendung
+* _Essentially, all models are wrong, but some are useful._ George Box
 
 ## Anarchismus
 > Der erste, der ein Stück Land mit einem Zaun umgab und auf den Gedanken kam zu sagen "Dies gehört mir" und der Leute

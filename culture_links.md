@@ -9,6 +9,7 @@
 
 ## Kurioses
 - [Von uns bekommt ihr nix!](https://vonunsbekommtihrnix.noblogs.org/)
+- [TV Tropes](https://tvtropes.org/)
 
 ## Dokus
 - [Adam Curtis](https://thoughtmaybe.com/by/adam-curtis/)
