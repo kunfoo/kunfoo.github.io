@@ -40,3 +40,32 @@ können, umso besser!
 - [Musik](musik)
 - [Zitate](zitate)
 - [Links](culture_links)
+
+---
+
+| Geiler Scheiß         | Kein Geiler Scheiß    |
+|-----------------------|-----------------------|
+| Freie Software        | Proprietäre Software  |
+| Copyleft              | Copyright             |
+| Genossenschaften      | Konzerne              |
+| Solidarität           | Individualismus       |
+| Wissenschaft          | Esoterik              |
+| Informationsfreiheit  | Geheimdienste         |
+| Gesellschaft          | Staat                 |
+| Privatsphäre          | Benutzertracking      |
+|                       | Werbung               |
+|                       | Lizenzbedingungen     |
+| Chaos Computer Club   | Bitkom                |
+| Linux                 | Windows               |
+| bash/zsh/fish         | PowerShell            |
+| \*BSD                 | macOS                 |
+| Firefox               | Chrome/Edge/Safari    |
+| Fediverse             | Metaverse             |
+| DuckDuckGo            | Google                |
+| RISC-V                | Intel                 |
+| vim                   | Notepad               |
+| IPv6                  | AppleTalk             |
+| WireGuard             | IPsec                 |
+| Mullvad VPN           |                       |
+| Tor                   |                       |
+

@@ -3,6 +3,11 @@
 - ncat
 - socat
 
+## IPv6
+- Link-local scope multicast all nodes address
+  - ff02::1
+  - `ping -6 ff02::1%eth0`
+
 ## iptables
 
 - list all chains
