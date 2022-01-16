@@ -41,8 +41,7 @@ können, umso besser!
 - [Zitate](zitate)
 - [Links](culture_links)
 
----
-
+## (Kein) Geiler Scheiß
 | Geiler Scheiß         | Kein Geiler Scheiß    |
 |-----------------------|-----------------------|
 | Freie Software        | Proprietäre Software  |
@@ -68,4 +67,6 @@ können, umso besser!
 | WireGuard             | IPsec                 |
 | Mullvad VPN           |                       |
 | Tor                   |                       |
+| foo over UDP          |                       |
+|                       | Antivirus             |
 
