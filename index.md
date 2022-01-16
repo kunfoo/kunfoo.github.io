@@ -42,6 +42,7 @@ können, umso besser!
 - [Links](culture_links)
 
 ## (Kein) Geiler Scheiß
+
 | Geiler Scheiß         | Kein Geiler Scheiß    |
 |-----------------------|-----------------------|
 | Freie Software        | Proprietäre Software  |
@@ -68,5 +69,7 @@ können, umso besser!
 | Mullvad VPN           |                       |
 | Tor                   |                       |
 | foo over UDP          |                       |
+| i3                    | Fenster schubsen      |
+| Tastatur              | Maus                  |
 |                       | Antivirus             |
 
