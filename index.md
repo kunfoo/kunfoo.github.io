@@ -57,8 +57,8 @@ können, umso besser!
 |                       | Lizenzbedingungen     |
 | Chaos Computer Club   | Bitkom                |
 | Linux                 | Windows               |
-| bash/zsh/fish         | PowerShell            |
 | \*BSD                 | macOS                 |
+| bash/zsh/fish         | PowerShell            |
 | Firefox               | Chrome/Edge/Safari    |
 | Fediverse             | Metaverse             |
 | DuckDuckGo            | Google                |
@@ -66,10 +66,11 @@ können, umso besser!
 | vim                   | Notepad               |
 | IPv6                  | AppleTalk             |
 | WireGuard             | IPsec                 |
-| Mullvad VPN           |                       |
+| Mullvad VPN           | Ranz VPN              |
 | Tor                   |                       |
 | foo over UDP          |                       |
 | i3                    | Fenster schubsen      |
 | Tastatur              | Maus                  |
 |                       | Antivirus             |
+| mutt                  | Outlook               |
 

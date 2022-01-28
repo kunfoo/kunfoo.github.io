@@ -69,6 +69,11 @@
 ### Attestation
 - [Binary Transparency](https://wiki.mozilla.org/Security/Binary_Transparency)
 - [Key Transparency](https://github.com/google/keytransparency/)
+- [Certificate Transparency](https://crt.sh/)
+
+### Phishing
+- [evilginx2](https://github.com/kgretzky/evilginx2)
+- [Gophish](https://github.com/gophish/gophish)
 
 ## General IT
 ### Web
@@ -87,6 +92,7 @@
 - [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
 - [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
+- [Shodan 2000](https://2000.shodan.io/#/)
 
 ### Server Configuration
 - [SSH login alert with sendmail and PAM](https://medium.com/@alessandrocuda/ssh-login-alerts-with-sendmail-and-pam-3ef53aca1381)
