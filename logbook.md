@@ -4,8 +4,12 @@
 _2022.01.29_  
 I was recently experiencing problems with the wireless interface on my Debian 11 home server. The connection was very
 instable and I could observe `rtlwifi: AP off, try to reconnect now` entries in the kernel log. My first thought was a
-power management issue with my wireless adapter, so I put `options rtl8188ee swenc=1 ips=0 swlps=0 fwlps=0 aspm=0` into
-`/etc/modprobe.d/rtl8188ee.conf`. However, this did not solve the problem.
+power management issue with my wireless adapter, so I put
+```
+options rtl8188ee swenc=1 ips=0 swlps=0 fwlps=0 aspm=0
+```
+
+into `/etc/modprobe.d/rtl8188ee.conf`. However, this did not solve the problem.
 
 ### iwd
 Somewhere I read that it might be NetworkManager's fault, so I decided to give [iwd](https://iwd.wiki.kernel.org/) (iNet
@@ -23,9 +27,9 @@ details like an IP address. For example, IPv6 is disabled by default (wtf, it's 
 enabled IPv6, I couldn't really get it to work as expected. So I decided to use systemd-networkd for this.
 
 ### systemd-networkd
-As I already disabled NetworkManager, it couldn't interfere with systemd-networkd. However, your mileage my vary. Make
+As I already disabled NetworkManager, it couldn't interfere with systemd-networkd. However, your mileage may vary. Make
 sure there is no `/etc/network/interfaces*`, netplan or anything else also trying to configure your network interface.
-The configuration goes to /etc/systemd/network/wireless.network in my case, and is quite straight forward:
+The configuration goes to `/etc/systemd/network/wireless.network` in my case, and is quite straight forward:
 ```
 [Match]
 # Name=wlan0
@@ -46,8 +50,8 @@ UseDNS=false
 As I only have one wireless interface, I decided to use `Type=wlan`, but it's also perfectly fine to specify the
 wireless interface. Again have a look at the great [Arch Wiki documentation on
 systemd-networkd](https://wiki.archlinux.org/title/Systemd-networkd) or `man systemd.network` for details.
-Then enable systemd-networkd by `systemctl enable --now systemd-networkd.service`. As I wanted to play with DNS over TLS
-I decided to put `UseDNS=false` in there and use systemd-resolved for DNS.
+Then enable systemd-networkd by `systemctl enable --now systemd-networkd.service`. As I wanted to play with DNS over
+TLS, I decided to put `UseDNS=false` in there and use systemd-resolved for DNS.
 
 ### systemd-resolved
 I just found out that the VPN provider [Mullvad offers free ad-blocking DoT-ready DNS
@@ -72,7 +76,8 @@ don't respect your wishes for an ad-free world and happily resolve domain names 
 in your legacy `/etc/resolv.conf`. systemd-resolved provides a stub dns resolver listening on localhost:53 for this and
 you can configure it system-wide by symlinking to a pseudo resolv.conf like this:
 ```
-/run/systemd/resolve/stub-resolv.conf
+# rm /etc/resolv.conf
+# ln -s /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
 ```
 
 ### Conclusion
