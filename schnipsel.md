@@ -43,3 +43,9 @@
 
 - `find /usr -type f \( -perm -04000 -o -perm -02000 \)`
   - find suid/sgid executables in /usr and subdirectories
+
+## tmux
+- `tmus -S $SESSION ls`
+  - list tmux sessions on socket $SOCKET as defined by byobu -S $SESSION
+- `tmus -S $SESSION attach -t $NUM`
+  - attach to tmux session $NUM on socket $SOCKET

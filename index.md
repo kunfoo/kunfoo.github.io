@@ -42,6 +42,7 @@ können, umso besser!
 - [Links](culture_links)
 
 ## (Kein) Geiler Scheiß
+Mein zum Scheitern verurteilter Versuch die Welt in Gut und Schlecht einzuteilen:
 
 | Geiler Scheiß         | Kein Geiler Scheiß    |
 |-----------------------|-----------------------|
