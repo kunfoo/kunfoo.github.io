@@ -27,6 +27,7 @@ Eine Liste von Büchern, die ich empfehlen kann.
 - Alex Garland - The Beach
 - J.D. Salinger - Der Fänger im Roggen
 - Bram Stoker - Dracula
+- Arkadi und Boris Strugazki - Stalker
 - Oscar Wilde - Das Bildnis des Dorian Gray
 
 ## Klassiker
@@ -38,3 +39,4 @@ Eine Liste von Büchern, die ich empfehlen kann.
 
 ## Gar keine Romane (aber auch keine Sachbücher)
 - Wolfgang Herrndorf - Arbeit und Struktur
+- Das Erich Kästner Lesebuch (Diogenes)

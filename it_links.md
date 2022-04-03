@@ -99,6 +99,7 @@
 
 ### Server Configuration
 - [SSH login alert with sendmail and PAM](https://medium.com/@alessandrocuda/ssh-login-alerts-with-sendmail-and-pam-3ef53aca1381)
+- [nftables primer](https://paulgorman.org/technical/linux-nftables.txt.html)
 
 ### Useful Tools
 - [RegExr: Learn, Build & Test RegEx](https://regexr.com/)

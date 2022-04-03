@@ -45,6 +45,17 @@
 - Der Unsichtbare (2020, The Invisible Man)
 - Wrong Turn
 
+## Musikfilme
+- 8 Mile
+- A Star Is Born
+- Amadeus
+- Berlin Calling
+- Control
+- Crazy Heart
+- Inside Llewyn Davis
+- La La Land
+- Walk the Line
+
 ## Science Fiction
 - 2001 - Odyssee im Weltraum
 - Alien I und II
@@ -54,7 +65,6 @@
 
 ## Hat auch ein Genre
 - Adaptation.
-- Amadeus
 - Children of Men
 - Collateral
 - Der Gott des Gemetzels (Carnage)
@@ -73,8 +83,10 @@
 - Promising Young Woman
 - Sieben (Se7en)
 - Sleepy Hollow
+- Sound of Metal
 - Spring Breakers
 - Three Billboards Outside Ebbing, Missouri
+- Wayne's World I/II
 - Zodiac
 
 ## Serien
@@ -86,6 +98,11 @@
 - Star Trek: The Next Generation
 - True Detective
   - nur die erste Staffel, aber die ist großartig
+
+## Dokumentationen
+- Beltracchi – Die Kunst der Fälschung
+- Free Solo
+- Westwood: Punk, Icon, Activist
 
 ## Schauspieler
 - Al Pacino
