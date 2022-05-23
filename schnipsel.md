@@ -45,7 +45,7 @@
   - find suid/sgid executables in /usr and subdirectories
 
 ## tmux
-- `tmus -S $SESSION ls`
+- `tmux -S $SESSION ls`
   - list tmux sessions on socket $SOCKET as defined by byobu -S $SESSION
-- `tmus -S $SESSION attach -t $NUM`
+- `tmux -S $SESSION attach -t $NUM`
   - attach to tmux session $NUM on socket $SOCKET

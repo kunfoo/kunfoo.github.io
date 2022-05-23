@@ -26,6 +26,7 @@
 - Carrie (1976)
 - Die Farbe aus dem All (Color Out of Space)
 - Der Exorzist
+- The Descent
 - Die Fliege (The Fly)
 - Don't Breathe
 - Get Out
@@ -54,6 +55,7 @@
 - Crazy Heart
 - Inside Llewyn Davis
 - La La Land
+- Love & Mercy
 - Walk the Line
 
 ## Science Fiction

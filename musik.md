@@ -73,3 +73,5 @@ Manchmal entdecke ich ein Lied und muss es mir den ganzen Tag über, immer wiede
 - 07.01.2020: Commodores - Nightshift
 - 03.04.2022: Mattiel - Jeff Goldblum
 - 03.04.2022: Dead Moon - Dead Moon Night
+- 22.05.2022: CHILDREN - Männer
+- 22.05.2022: Bilderbuch - Ab und Auf
