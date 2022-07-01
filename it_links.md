@@ -43,6 +43,7 @@
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 - [Better API Penetration Testing with Postman](https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html)
 - [How to Find XXE Bugs](https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/)
+- [HTTP/2 basics for Burp users](https://portswigger.net/burp/documentation/desktop/http2/http2-basics-for-burp-users)
 
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)

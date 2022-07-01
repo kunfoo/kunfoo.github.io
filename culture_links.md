@@ -20,3 +20,6 @@
 
 ## Anderes
 - [David Foster Wallace - This is Water](https://www.youtube.com/watch?v=eC7xzavzEKY)
+
+## Internetkultur in Ermangelung einer besseren Kategorie
+- [YARN](https://getyarn.io/)

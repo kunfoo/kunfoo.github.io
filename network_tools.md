@@ -8,6 +8,12 @@
   - ff02::1
   - `ping -6 ff02::1%eth0`
 
+## curl
+- resolve ccc.de to localhost address and don't check certificate
+```
+# curl --resolve ccc.de:443:127.0.0.1 -k https://ccc.de
+```
+
 ## iptables
 
 - list all chains
@@ -25,6 +31,12 @@ or
 - list rules of the FORWARD chain with line numbers and packet counters
 ```
 # iptables -n -v --line-numbers -L FORWARD
+# iptables -vnL FORWARD --line-numbers
+```
+
+- delete rule 23 in FORWARD chain
+```
+# iptables -D FORWARD 23
 ```
 
 - reset packet counter for rule 42 in INPUT chain
