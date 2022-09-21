@@ -96,6 +96,7 @@
 - [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
 - [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
+- [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
 
 ### Hacks, Proof of Concepts
 - [Shodan 2000](https://2000.shodan.io/#/)
@@ -108,3 +109,4 @@
 ### Useful Tools
 - [RegExr: Learn, Build & Test RegEx](https://regexr.com/)
 - [Producing Beamer slide shows from markdown using Pandoc](https://ashwinschronicles.github.io/beamer-slides-using-markdown-and-pandoc)
+- [Security automation tools for http, dns, ...](https://projectdiscovery.io/#/)

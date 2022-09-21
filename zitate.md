@@ -8,6 +8,7 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 * _Freiheit ist immer Freiheit der Andersdenkenden._ Rosa Luxemburg
 * _Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet._ George Bernard Shaw
 * _Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt._ Ludwig Wittgenstein
+* _Toleranz ist der Verdacht, dass der andere Recht hat._ Kurt Tucholsky
 
 ---
 
