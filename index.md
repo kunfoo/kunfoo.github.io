@@ -16,6 +16,7 @@ können, umso besser!
 - Basic tools
   - [bash](bash)
   - [ELF](elf)
+  - [k8s](k8s)
   - [Networking](network_tools)
   - [Paketmanager](paketmanager)
   - [Python](python)

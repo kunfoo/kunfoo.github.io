@@ -97,6 +97,8 @@
 - [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
 - [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+- [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
+- [Internet Census 2012](https://census2012.sourceforge.net/paper.html)
 
 ### Hacks, Proof of Concepts
 - [Shodan 2000](https://2000.shodan.io/#/)
