@@ -47,6 +47,9 @@
 - [How to Find XXE Bugs](https://www.bugcrowd.com/blog/how-to-find-xxe-bugs/)
 - [HTTP/2 basics for Burp users](https://portswigger.net/burp/documentation/desktop/http2/http2-basics-for-burp-users)
 
+#### Tools
+- [ffuf](https://github.com/ffuf/ffuf)
+
 ### Post Exploitation
 - [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 

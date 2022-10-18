@@ -36,6 +36,8 @@
 ## awk
 - `awk -F ',' '{ print $1 "\t" $NF}'`
   - print the first and the last column, separated by tab, use field separator ","
+- `awk '{ if ($3 == "something") print}'`
+  - print if condition is met
 
 ## find
 - `find . -perm -a+w -type d,f -ls`
