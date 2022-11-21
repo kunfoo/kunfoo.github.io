@@ -102,6 +102,7 @@
 - [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
 - [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
 - [Internet Census 2012](https://census2012.sourceforge.net/paper.html)
+- [Working From Orbit](https://medium.com/immersedteam/working-from-orbit-39bf95a6d385)
 
 ### Hacks, Proof of Concepts
 - [Shodan 2000](https://2000.shodan.io/#/)
