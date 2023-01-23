@@ -74,6 +74,7 @@
 - Ed Wood
 - Edward mit den Scherenhänden (Edward Scissorhands)
 - End of Watch
+- [EO](https://www.imdb.com/title/tt19652910/)
 - Falling Down
 - The Fighter
 - Full Metal Jacket
@@ -89,6 +90,7 @@
 - Spring Breakers
 - Three Billboards Outside Ebbing, Missouri
 - Wayne's World I/II
+- The Weather Man
 - Zodiac
 
 ## Serien
@@ -111,4 +113,5 @@
 - Brad Pitt
 - Johnny Depp
 - Jake Gyllenhaal
+- Nicolas Cage
 - Robert De Niro

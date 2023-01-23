@@ -23,3 +23,4 @@
 
 ## Internetkultur in Ermangelung einer besseren Kategorie
 - [YARN](https://getyarn.io/)
+- [sci-hub](https://www.sci-hub.se/)

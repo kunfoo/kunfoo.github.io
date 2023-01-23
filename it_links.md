@@ -91,9 +91,16 @@
 - [uBlock Origin](https://ublockorigin.com/)
 - [Privacy Badger](https://privacybadger.org/)
 
-### Debian
+### Linux
+- [The Linux Command Line (Book)](https://www.linuxcommand.org/tlcl.php)
+
+#### Debian
 - [Removal of jessie-updates and jessie-backports from debian mirrors](https://www.lucas-nussbaum.net/blog/?p=947)
   - this article has a nice graph of how packages go through the different repositories (security, stable-updates, ...)
+
+#### Server Configuration
+- [SSH login alert with sendmail and PAM](https://medium.com/@alessandrocuda/ssh-login-alerts-with-sendmail-and-pam-3ef53aca1381)
+- [nftables primer](https://paulgorman.org/technical/linux-nftables.txt.html)
 
 ### Memorable Articles and Stuff
 - [ASCIIMATION Star Wars via telnet](telnet://towel.blinkenlights.nl)
@@ -108,11 +115,14 @@
 - [Shodan 2000](https://2000.shodan.io/#/)
 - [WebVM](https://webvm.io/)
 
-### Server Configuration
-- [SSH login alert with sendmail and PAM](https://medium.com/@alessandrocuda/ssh-login-alerts-with-sendmail-and-pam-3ef53aca1381)
-- [nftables primer](https://paulgorman.org/technical/linux-nftables.txt.html)
-
 ### Useful Tools
 - [RegExr: Learn, Build & Test RegEx](https://regexr.com/)
 - [Producing Beamer slide shows from markdown using Pandoc](https://ashwinschronicles.github.io/beamer-slides-using-markdown-and-pandoc)
 - [Security automation tools for http, dns, ...](https://projectdiscovery.io/#/)
+- [IDN Check (for similar Domains)](https://holdintegrity.com/checker)
+- [dnstwist phishing domain scanner](https://dnstwist.it/)
+
+### Homepages I like
+- [jes existential optimist](https://j3s.sh/)
+- [lcamttuf's homepage](https://lcamtuf.coredump.cx/)
+- [netmeister.org](https://www.netmeister.org/)

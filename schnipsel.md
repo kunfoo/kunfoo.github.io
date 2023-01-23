@@ -51,3 +51,9 @@
   - list tmux sessions on socket $SOCKET as defined by byobu -S $SESSION
 - `tmux -S $SESSION attach -t $NUM`
   - attach to tmux session $NUM on socket $SOCKET
+
+## capabilities
+- `setcap all+eip /path/to/$BINARY`
+  - assign all capabilities (in the effective, inheritable and permitted sets) to $BINARY
+- setpriv --bounding-set +all --ambient-caps +all --inh-caps +all $BINARY
+  - run $BINARY with all capabilities

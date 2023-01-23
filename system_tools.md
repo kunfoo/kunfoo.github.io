@@ -41,3 +41,8 @@ update-alternatives --set editor /usr/bin/vim.basic
 ```
 systemd-run --on-calendar="2023-01-01 01:00:00 UTC" systemctl reboot
 ```
+
+## mdadm
+- `mdadm --auto-detect`
+- `mdadm --assemble --scan`
+- `mdadm --detail /dev/md0`

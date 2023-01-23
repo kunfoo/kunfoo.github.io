@@ -1,6 +1,8 @@
 # Python
 
 ## Builtins
+- breakpoint()
+    - put it anywhere in your code and start debugging
 
 ### functions
 - bin(num)

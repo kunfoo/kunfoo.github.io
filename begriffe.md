@@ -60,6 +60,13 @@ Nach Freud habe der Mensch 3 Kränkungen erfahren:
 
 ---
 
+### Confirmation Bias
+TODO
+
+[Wikipedia]()
+
+---
+
 ## Wissenschaft
 ### Clarkesche Gesetze
 1. _Wenn ein angesehener, aber älterer Wissenschaftler behauptet, dass etwas möglich ist, hat er mit an Sicherheit grenzender Wahrscheinlichkeit recht. Wenn er behauptet, dass etwas unmöglich ist, hat er höchstwahrscheinlich unrecht._
