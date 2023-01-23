@@ -20,6 +20,16 @@
 - Systemsprenger
 - Werk ohne Autor
 
+## Gangsterfilme
+- Donnie Brasco
+- Goodfellas
+- In den Straßen der Bronx (A Bronx Tale)
+- Killing Them Softly
+- Der Pate I-III (The Godfather)
+- Reservoir Dogs
+- Scarface
+- Snatch
+
 ## Horror
 - Der Babadook
 - The Conjuring
@@ -80,6 +90,7 @@
 - Full Metal Jacket
 - Herz aus Stahl (Fury)
 - I, Tonya
+- Natural Born Killers
 - Once Upon a Time in Hollywood
 - Pig
 - Predator
@@ -105,6 +116,7 @@
 
 ## Dokumentationen
 - Beltracchi – Die Kunst der Fälschung
+- Exit Through the Gift Shop
 - Free Solo
 - Westwood: Punk, Icon, Activist
 
