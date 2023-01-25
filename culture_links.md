@@ -8,6 +8,7 @@
 - [CrimethInc.](https://crimethinc.com)
 
 ## Kurioses
+- [neal.fun](https://neal.fun/)
 - [Von uns bekommt ihr nix!](https://vonunsbekommtihrnix.noblogs.org/)
 - [TV Tropes](https://tvtropes.org/)
 
