@@ -71,9 +71,14 @@
 ## Science Fiction
 - 2001 - Odyssee im Weltraum
 - Alien I und II
+- Arrival
+- District 9
+- Ex Machina
+- Her
 - Interstellar
 - Starship Troopers
 - Sunshine
+- Transcendence
 
 ## Hat auch ein Genre
 - Adaptation.
