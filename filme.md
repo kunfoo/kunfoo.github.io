@@ -1,6 +1,7 @@
 # Filme
 ## Lieblingsfilme
 - American Beauty
+- Blade Runner 2049
 - Donnie Darko
 - Fight Club
 - Forrest Gump
@@ -72,6 +73,7 @@
 - 2001 - Odyssee im Weltraum
 - Alien I und II
 - Arrival
+- Blade Runner
 - District 9
 - Ex Machina
 - Her
@@ -82,6 +84,8 @@
 
 ## Hat auch ein Genre
 - Adaptation.
+- American History X
+- Capernaum
 - Children of Men
 - Collateral
 - Der Gott des Gemetzels (Carnage)
@@ -97,6 +101,7 @@
 - I, Tonya
 - Natural Born Killers
 - Once Upon a Time in Hollywood
+- Only Lovers Left Alive
 - Pig
 - Predator
 - Promising Young Woman
@@ -132,3 +137,4 @@
 - Jake Gyllenhaal
 - Nicolas Cage
 - Robert De Niro
+- Ryan Gosling
