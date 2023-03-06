@@ -24,6 +24,13 @@ Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://ww
 * _Gewissermaßen ist das Leben die Gelegenheit zu sterben._ Nicolas Dierks - Mit Wittgenstein im Wartezimmer
 * _Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
 
+---
+
+__Isaac Asimov - The Relativity of Wrong__
+> When people thought the Earth was flat, they were wrong. When people thought the Earth was spherical, they were wrong.
+> But if you think that thinking the Earth is spherical is just as wrong as thinking the Earth is flat, then your view
+> is wronger than both of them put together.
+
 ## ~~Aphorismen~~ Schlaumeiereien
 ### Ein Gedicht
 > Alle Menschen, welche leben,  
