@@ -1,5 +1,5 @@
 # Zitate
-Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://www.philoclopedia.de/2015/05/28/argumentationsfehler-autorit%C3%A4tsargument/)).
+Immer gut zum Angeben und Klugscheißen (s. auch [Autoritätsbeweis](https://www.philoclopedia.de/2015/05/28/argumentationsfehler-autorit%C3%A4tsargument/)).
 
 _Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden._  
 Arthur C. Clarke
@@ -82,7 +82,9 @@ Unbekannter Autor
 Mahatma Gandhi
 
 ## IT
-_Program testing can be used to show the presence of bugs, but never to show their absence._ Edsger W. Dijkstra
+_Program testing can be used to show the presence of bugs, but never to show their absence._  
+Edsger W. Dijkstra
+
 _In a world without walls and fences, who needs Windows and Gates?_
 
 ## Anarchismus
