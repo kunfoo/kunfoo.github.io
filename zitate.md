@@ -1,59 +1,65 @@
 # Zitate
 Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://www.philoclopedia.de/2015/05/28/argumentationsfehler-autorit%C3%A4tsargument/)).
 
-> Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden.
+_Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden._  
 Arthur C. Clarke
 
-> Mit dem Wissen wächst der Zweifel.
+_Mit dem Wissen wächst der Zweifel._  
 J.W. Goethe
 
-> Es irrt der Mensch solang er strebt.
+_Es irrt der Mensch solang er strebt._  
 J.W. Goethe - Faust
 
-> Es gibt kein richtiges Leben im falschen.
+_Es gibt kein richtiges Leben im falschen._  
 Theodor W. Adorno - Minima Moralia
 
-> Freiheit ist immer Freiheit der Andersdenkenden.
+_Freiheit ist immer Freiheit der Andersdenkenden._  
 Rosa Luxemburg
 
-> Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet.
+_Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet._  
 George Bernard Shaw
 
-> Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
+_Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt._  
 Ludwig Wittgenstein
 
-> Toleranz ist der Verdacht, dass der andere Recht hat.
+_Toleranz ist der Verdacht, dass der andere Recht hat._  
 Kurt Tucholsky
 
 ---
 
-_Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
+_Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._  
+C. W. Wendte
 
-_The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum._ Noam Chomsky
+_The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum._  
+Noam Chomsky
 
-_Perfect is the enemy of good._ Englische Redewendung
+_Perfect is the enemy of good._  
+Englische Redewendung
 
-_Essentially, all models are wrong, but some are useful._ George Box
+_Essentially, all models are wrong, but some are useful._  
+George Box
 
-_First they ignore you, then they laugh at you, then they fight you, then you win._ Mahatma Gandhi
+_First they ignore you, then they laugh at you, then they fight you, then you win._  
+Mahatma Gandhi
 
 ---
 
-_Meine Definition von Glück? Keine Termine und leicht einen sitzen._
+_Meine Definition von Glück? Keine Termine und leicht einen sitzen._  
 Harald Juhnke
 
-_Gewissermaßen ist das Leben die Gelegenheit zu sterben._
+_Gewissermaßen ist das Leben die Gelegenheit zu sterben._  
 Nicolas Dierks - Mit Wittgenstein im Wartezimmer
 
-_Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._
+_Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._  
 Hape Kerkeling - Ich bin dann mal weg
 
 ---
 
-__Isaac Asimov - The Relativity of Wrong__
 > When people thought the Earth was flat, they were wrong. When people thought the Earth was spherical, they were wrong.
 > But if you think that thinking the Earth is spherical is just as wrong as thinking the Earth is flat, then your view
 > is wronger than both of them put together.
+
+Isaac Asimov - The Relativity of Wrong
 
 ## ~~Aphorismen~~ Schlaumeiereien
 ### Ein Gedicht
@@ -90,7 +96,8 @@ Jean Jacques Rousseau
 
 ---
 
-* _Eigentum ist Diebstahl._ Pierre-Joseph Proudhon
+_Eigentum ist Diebstahl._  
+Pierre-Joseph Proudhon
 
 ## [LessWrong](https://www.lesswrong.com/)
 _Gehe nicht zu Fuß zur Wahrheit, sondern tanze._ (_Do not walk to the truth, but dance._) [Eliezer Yudkowsky, Twelve Virtues of Rationality](https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality)
