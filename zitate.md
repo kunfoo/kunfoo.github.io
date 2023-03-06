@@ -102,5 +102,6 @@ Pierre-Joseph Proudhon
 ## [LessWrong](https://www.lesswrong.com/)
 _Gehe nicht zu Fuß zur Wahrheit, sondern tanze._ (_Do not walk to the truth, but dance._)  
 [Eliezer Yudkowsky, Twelve Virtues of Rationality](https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality)
+
 _Die Wurzeln des Wissens liegen in der Beobachtung und seine Frucht ist die Vorhersage._ (_The roots of knowledge are in observation and its fruit is prediction._)  
 [Eliezer Yudkowsky, Twelve Virtues of Rationality](https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality)
