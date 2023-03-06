@@ -1,28 +1,52 @@
 # Zitate
 Immer gut zum Angeben und Klugscheißern (s. auch [Autoritätsbeweis](https://www.philoclopedia.de/2015/05/28/argumentationsfehler-autorit%C3%A4tsargument/)).
 
-_Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden._ Arthur C. Clarke
-_Mit dem Wissen wächst der Zweifel._ J.W. Goethe
-_Es irrt der Mensch solang er strebt._ J.W. Goethe - Faust
-_Es gibt kein richtiges Leben im falschen._ Theodor W. Adorno - Minima Moralia
-_Freiheit ist immer Freiheit der Andersdenkenden._ Rosa Luxemburg
-_Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet._ George Bernard Shaw
-_Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt._ Ludwig Wittgenstein
-_Toleranz ist der Verdacht, dass der andere Recht hat._ Kurt Tucholsky
+> Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden.
+Arthur C. Clarke
+
+> Mit dem Wissen wächst der Zweifel.
+J.W. Goethe
+
+> Es irrt der Mensch solang er strebt.
+J.W. Goethe - Faust
+
+> Es gibt kein richtiges Leben im falschen.
+Theodor W. Adorno - Minima Moralia
+
+> Freiheit ist immer Freiheit der Andersdenkenden.
+Rosa Luxemburg
+
+> Die Jugend ist etwas wundervolles. Es ist eine Schande, dass man sie an die Kinder vergeudet.
+George Bernard Shaw
+
+> Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
+Ludwig Wittgenstein
+
+> Toleranz ist der Verdacht, dass der andere Recht hat.
+Kurt Tucholsky
 
 ---
 
 _Success in life is a matter not so much of talent and opportunity as of concentration and perseverance._ C. W. Wendte
+
 _The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum._ Noam Chomsky
+
 _Perfect is the enemy of good._ Englische Redewendung
+
 _Essentially, all models are wrong, but some are useful._ George Box
+
 _First they ignore you, then they laugh at you, then they fight you, then you win._ Mahatma Gandhi
 
 ---
 
-*Meine Definition von Glück? Keine Termine und leicht einen sitzen.* Harald Juhnke
-_Gewissermaßen ist das Leben die Gelegenheit zu sterben._ Nicolas Dierks - Mit Wittgenstein im Wartezimmer
-_Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._ Hape Kerkeling - Ich bin dann mal weg
+_Meine Definition von Glück? Keine Termine und leicht einen sitzen._
+Harald Juhnke
+
+_Gewissermaßen ist das Leben die Gelegenheit zu sterben._
+Nicolas Dierks - Mit Wittgenstein im Wartezimmer
+
+_Alles beginnt und hört wieder auf, obwohl es immer Jetzt ist und eigentlich alles in einem einzigen gigantischen Moment passiert._
+Hape Kerkeling - Ich bin dann mal weg
 
 ---
 
