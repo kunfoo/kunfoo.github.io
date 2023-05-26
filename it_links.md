@@ -110,6 +110,8 @@
 - [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
 - [Internet Census 2012](https://census2012.sourceforge.net/paper.html)
 - [Working From Orbit](https://medium.com/immersedteam/working-from-orbit-39bf95a6d385)
+- [Load Balancing](https://samwho.dev/load-balancing/)
+    - nice visualization of different algorithms
 
 ### Hacks, Proof of Concepts
 - [Shodan 2000](https://2000.shodan.io/#/)
