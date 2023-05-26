@@ -69,7 +69,7 @@
   - Awesome guide for pentesting web, linux, windows, mobile, etc.
 - [madaidan - Security & Privacy Evaluations](https://madaidans-insecurities.github.io)
 
-### Crypto
+### Cryptography
 - [Going Bark: A Furry’s Guide to End-to-End Encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
 - [Latacora - The PGP Problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
 
@@ -126,3 +126,6 @@
 - [jes existential optimist](https://j3s.sh/)
 - [lcamttuf's homepage](https://lcamtuf.coredump.cx/)
 - [netmeister.org](https://www.netmeister.org/)
+
+### Programming
+- [Python's Missing Batteries: Essential Libraries You're Missing Out On](https://martinheinz.dev/blog/96)
