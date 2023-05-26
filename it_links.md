@@ -3,9 +3,9 @@
 ### Information Gathering
 - [Censys](https://search.censys.io/)
 - [CVE Details](https://www.cvedetails.com/)
+- [Cylect.io - Ultimate OSINT Search Engine](https://cylect.io/)
 - [Exploit Database](https://www.exploit-db.com/)
 - [FullHunt](https://fullhunt.io/)
-- [IPv4info](http://ipv4info.com/)
 - [Linux Distribution Packages Database](https://pkgs.org/)
 - [Shodan](https://www.shodan.io/)
 - [Snyk Vulnerability DB](https://snyk.io/vuln/)
