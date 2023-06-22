@@ -42,6 +42,9 @@ George Box
 _First they ignore you, then they laugh at you, then they fight you, then you win._  
 Mahatma Gandhi
 
+_The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents._
+H.P. Lovecraft
+
 ---
 
 _Meine Definition von Glück? Keine Termine und leicht einen sitzen._  
