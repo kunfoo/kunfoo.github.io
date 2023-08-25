@@ -34,9 +34,7 @@ können, umso besser!
 
 ## Kultur
 - [Begriffe](begriffe)
-- Bücher
-  - [Romane](romane)
-  - [Sachbücher](sachbuecher)
+- [Literatur](literatur)
 - [Filme](filme)
 - [Musik](musik)
 - [Zitate](zitate)

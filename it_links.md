@@ -16,6 +16,7 @@
 - [Unicode confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp?a=%22&r=None)
 - [PoC Exploits in Github](https://github.com/nomi-sec/PoC-in-GitHub)
 - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
+- [Shellcode Database](http://shell-storm.org/shellcode/index.html)
 
 ### Mobile Pentesting
 - [awesome-mobile-security (github collection)](https://github.com/vaib25vicky/awesome-mobile-security)
@@ -131,3 +132,6 @@
 
 ### Programming
 - [Python's Missing Batteries: Essential Libraries You're Missing Out On](https://martinheinz.dev/blog/96)
+
+### Cheat Sheets
+- [An Excruciatingly Detailed Guide To SSH](https://grahamhelton.com/blog/ssh-cheatsheet/)
