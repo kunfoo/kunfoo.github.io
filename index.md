@@ -62,7 +62,7 @@ Mein zum Scheitern verurteilter Versuch die Welt in Gut und Schlecht einzuteilen
 | Firefox               | Chrome/Edge/Safari    |
 | Fediverse             | Metaverse             |
 | DuckDuckGo            | Google                |
-| RISC-V                | Intel                 |
+| RISC-V                | Intel/ARM             |
 | vim                   | Notepad               |
 | IPv6                  | AppleTalk             |
 | WireGuard             | IPsec                 |
