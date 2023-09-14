@@ -114,6 +114,8 @@
 - [Working From Orbit](https://medium.com/immersedteam/working-from-orbit-39bf95a6d385)
 - [Load Balancing](https://samwho.dev/load-balancing/)
     - nice visualization of different algorithms
+- [Putting the "You" in CPU](https://cpu.land/)
+    - "what happens when you run a program on your computer?"
 
 ### Hacks, Proof of Concepts
 - [Shodan 2000](https://2000.shodan.io/#/)
