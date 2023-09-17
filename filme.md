@@ -99,6 +99,7 @@
 - Full Metal Jacket
 - Herz aus Stahl (Fury)
 - I, Tonya
+- Mid90s
 - Natural Born Killers
 - Once Upon a Time in Hollywood
 - Only Lovers Left Alive
