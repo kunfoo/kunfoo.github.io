@@ -1,4 +1,0 @@
-# ELF
-- nm
-- objdump
-- readelf
